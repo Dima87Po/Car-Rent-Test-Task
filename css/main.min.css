@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap);
+*{padding:0;margin:0;box-sizing:border-box}
+body{background-color:#f6f7f9;font-family:"Plus Jakarta Sans",sans-serif;font-weight:600;color:#3d5278;width:100%}
+#header{background-color:#fff;border:1px solid #c3d4e9}
+.navbar-brand{font-size:32px;color:#3563e9}
+.btn{border:1px solid #c3d4e9}
+.btn1{background:#3563e9;color:#fff;font-size:16px;font-weight:700;padding:16px 32px;border:none;display:inline;border-radius:4px;width:140px;height:56px}
+.btn1:hover{background:#00f}
+.bg{background-color:#ff4423}
+.account{margin-bottom:20px}
+.account-img{width:44px}
+.search-bar{position:relative;margin-top:10px;width:35%}
+.search-group .form-control{padding-left:2.375rem;border:1px solid #c3d4e9;font-size:14px}
+.search-group .search-icon{position:absolute;z-index:2;display:block;width:2.375rem;height:2.375rem;line-height:2.375rem;text-align:center;color:#3d5278}
+.form-control-icon2{position:absolute;color:#3d5278;top:10px;right:15px}
+.navbar-side{background-color:#fff;padding:32px}
+.navbar-side__filter{display:flex;flex-direction:column;margin-bottom:56px}
+.form-check{padding-top:32px}
+.filter-title{font-size:12px;letter-spacing:2px;color:#94a7cb}
+.PriceRange{margin:16px 0}
+.form-check-input{width:20px;height:20px}
+.form-check-label{padding-left:10px;font-size:16px}
+.check-span{color:#90a3bf}
+.view__pictures{display:flex;flex-direction:column}
+.pictures{margin-top:10px}
+.detail-car__text{background-color:#fff;border-radius:10px;padding:24px;margin-left:10px}
+h5{font-weight:700}
+.stars{width:108px;height:20px}
+.subs-stars{font-size:14px;margin-left:10px}
+.main-text{font-size:16px;line-height:40px;font-weight:400;letter-spacing:-.02em;margin-top:25px}
+.detail-car__specification{font-size:15px;margin-top:30px}
+.spec2{margin-left:50px}
+.item-type{color:#90a3bf;font-weight:400}
+.detail-car__price{margin-top:40px;font-weight:700}
+.price-day{font-size:10px;color:#90a3bf}
+.price-discount{text-decoration:line-through;font-size:10px;color:#90a3bf}
+.reviews-content{background-color:#fff;border-radius:10px;padding:24px;margin:0 15px}
+.review-qty{background-color:#3563e9;width:40px;height:24px;color:#fff;display:flex;flex-direction:row;justify-content:center;align-items:center;border-radius:4px;margin-left:12px;font-size:14px}
+.review__title{font-size:20px;font-weight:600;color:#1a202c}
+.rewiev-item{margin-top:24px}
+.review-text{font-size:14px;font-weight:400;margin:14px 0 0 60px}
+.review-img{margin-right:15px}
+.review-show-all{font-size:16px;color:#90a3bf;margin-top:35px}
+.show-all-arrow{width:12px;height:6px;margin-left:10px;margin-top:10px}
+.my{display:flex;flex-wrap:wrap}
+.inp{border-radius:8px;padding:12px}
+.search-span{border:1px solid #c3d4e9;border-radius:8px;padding:13px;margin-left:16px}
+.search-bar1{width:130%}
